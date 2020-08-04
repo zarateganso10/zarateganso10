@@ -12,16 +12,10 @@ I'am Fullstack Developer :computer
  :rocket:  &nbsp; I'am studyng **Computer Engineering**, but also **NodeJS** and his technologies :heart_eyes:
  <br/> :purple_heart: &nbsp; I would like to help people with code
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :zap: 
- <br/> :computer: &nbsp; My stack:
- - ReactJS  
- - Node.js 
- - React Native
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-
-
+ <br/> :zap: Languages: C, C++, Python, javascript
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
+ <br/> 💬  &nbsp; About me: I like tech, finance and investiments and games: CS:GO
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
 <!--
 **zarateganso10/zarateganso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
