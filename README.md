@@ -1,4 +1,4 @@
-<img width="auto" src="https://avatars0.githubusercontent.com/u/44106775?s=460&u=e70648fdb01dfa267756dff7cd5d09e95a9b595c&v=4">
+<img width="5rem" heigh="5rem" border-radius="50%" src="https://avatars0.githubusercontent.com/u/44106775?s=460&u=e70648fdb01dfa267756dff7cd5d09e95a9b595c&v=4">
 
 
 # Matheus Zarate
