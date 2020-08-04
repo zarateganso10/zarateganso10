@@ -5,9 +5,9 @@
 
 ## Hello guys 👋
 
-I'am student and lover of computer science.
-I try to resolve problems with code to make easy my life :smiley:
-I'am Fullstack Developer :computer
+<br/>I'am student and lover of computer science.
+<br/>I try to resolve problems with code to make easy my life :smiley:
+<br/>I'am Fullstack Developer :computer:
 
  :rocket:  &nbsp; I'am studyng **Computer Engineering**, but also **NodeJS** and his technologies :heart_eyes:
  <br/> :purple_heart: &nbsp; I would like to help people with code
