@@ -8,7 +8,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
 
-- E-mail: matheuszarate55@gmail.com
+- **E-mail:** matheuszarate55@gmail.com
 
 <!--
 **zarateganso10/zarateganso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
