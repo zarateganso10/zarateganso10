@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-## Who am I?
+### Who am I?
 
 - My name is Matheus Zarate. I'am a student of computer engineering and enthusiast of NodeJS technology;
 
-## My contacts
+### My contacts
 
-# Gmail
+#### Gmail
 
 - matheuszarate55@gmail.com
 
-# Linkedin
+#### Linkedin
 
 - https://www.linkedin.com/in/matheus-zarate-6a92a7164/
 
