@@ -15,7 +15,7 @@ I'am Fullstack Developer :computer
  <br/> :zap: Languages: C, C++, Python, javascript
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; About me: I like tech, finance and investiments and games: CS:GO
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
 <!--
 **zarateganso10/zarateganso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
