@@ -2,13 +2,13 @@
 
 ## Hello guys 👋
 
-<br/>I'am student and lover of computer science.
+<br/>I'm student and lover of computer science.
 <br/>I try to resolve problems with code to make easy my life :smiley:
-<br/>I'am Fullstack Developer :computer:
+<br/>I'm Fullstack Developer :computer:
 
- :rocket:  &nbsp; I'am studyng **Computer Engineering**, but also **NodeJS** and his technologies :heart_eyes:
+ :rocket:  &nbsp; I'm studyng **Computer Engineering**, but also **NodeJS** and his technologies :heart_eyes:
  <br/> :purple_heart: &nbsp; I would like to help people with code
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :blush: &nbsp; I can help you with C and C++
  <br/> :zap: Languages: C, C++, Python, javascript
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; About me: I like tech, finance and investiments and games: CS:GO
