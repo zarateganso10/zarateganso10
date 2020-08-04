@@ -9,7 +9,7 @@
  :rocket:  &nbsp; I'm studyng **Computer Engineering**, but also **NodeJS** and their technologies :heart_eyes:
  <br/> :purple_heart: &nbsp; I would like to help people with code
  <br/> :blush: &nbsp; I can help you with C and C++
- <br/> :zap: Languages: C, C++, Python, javascript
+ <br/> :zap: &nbsp; Languages: C, C++, Python, javascript
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; About me: I like tech, finance and investiments and games: CS:GO
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusZarate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-zarate-6a92a7164/)](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
