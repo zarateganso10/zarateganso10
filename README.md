@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-## My name is Matheus Zarate. I'am a student of computer engineering and enthusiast of NodeJS technology
+## Who am I?
+
+- My name is Matheus Zarate. I'am a student of computer engineering and enthusiast of NodeJS technology;
+
+## My contacts
+
+# Gmail
+
+- matheuszarate55@gmail.com
+
+# Linkedin
+
+- https://www.linkedin.com/in/matheus-zarate-6a92a7164/
 
 <!--
 **zarateganso10/zarateganso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
