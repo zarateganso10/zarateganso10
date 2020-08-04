@@ -6,7 +6,7 @@
 
 ### My contacts
 
-#### Gmail
+- [Gmail](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
 
 - matheuszarate55@gmail.com
 
