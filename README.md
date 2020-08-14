@@ -11,7 +11,7 @@
  <br/> :blush: &nbsp; I can help you with C and C++
  <br/> :zap: &nbsp; Languages: C, C++, Python, javascript
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
- <br/> 💬  &nbsp; About me: I like tech, finance & investiments and games: CS:GO
+ <br/> 💬  &nbsp; About me: I like tech, finance & investiments and games
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-MatheusZarate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-zarate-6a92a7164/)](https://www.linkedin.com/in/matheus-zarate-6a92a7164/)
  |
 Gmail: matheuszarate55@gmail.com
